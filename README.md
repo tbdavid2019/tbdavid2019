@@ -9,13 +9,19 @@
 
 ## 🚀 精選專案
 
+### [7-11全家即期品](https://github.com/tbdavid2019/taiwan-7-11)
+便利商店即期食品查詢 (7-11 / FamilyMart)
+
+### [學生夢靨](https://github.com/tbdavid2019/pdf2quiz)
+PDF/各種文件/聲音檔案 轉成 考試題目Quiz (學生夢靨)
+
 ### 🎧 [PDF2podcast-2-tts](https://github.com/tbdavid2019/PDF2podcast-2-tts)
 將 PDF 劇本轉換為自然語音的 TTS 工具，支援雙說話者對話。適合製作播客、有聲書。
 
 ### 📰 [crawler-news-schedule](https://github.com/tbdavid2019/crawler-news-schedule)
 每天自動整理投資新聞，並發送到 Blogger、Discord、Telegram 等平台。
 
-### 📈 [stockbot](https://github.com/tbdavid2019/stockbot)
+### 📈 [投資諮詢機器人 telegram bot](https://github.com/tbdavid2019/telegram-bot-stock2)
 結合聊天機器人與股市查詢功能的聊天型投資助手。
 
 ### 🤖 [telegram-bot-summary](https://github.com/tbdavid2019/telegram-bot-summary)
