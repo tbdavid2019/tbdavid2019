@@ -58,9 +58,11 @@ PDF/各種文件/聲音檔案 轉成 考試題目Quiz (學生夢靨)
 
 ## 📊 GitHub 活躍紀錄
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbdavid2019&show_icons=true&theme=radical&count_private=true)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbdavid2019&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbdavid2019&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbdavid2019&layout=compact&theme=radical&cache_seconds=86400)
+
+
 
 ---
 
