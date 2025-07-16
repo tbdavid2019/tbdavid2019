@@ -9,6 +9,9 @@
 
 ## 🚀 精選專案
 
+### [店面 脈搏](https://huggingface.co/spaces/tbdavid2019/store-pulse) 
+針對連鎖店 多店鋪 所有 google maps 評論一次看 , 雷店避開
+
 ### [7-11全家即期品](https://github.com/tbdavid2019/taiwan-7-11)
 便利商店即期食品查詢 (7-11 / FamilyMart)
 
