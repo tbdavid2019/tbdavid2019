@@ -9,6 +9,9 @@
 
 ## 🚀 精選專案
 
+## [奇門遁甲](https://qi.david888.com/)
+使用茅山派,可以選擇時家,日家,月家等預測短期長期占卜
+
 ### [店面 脈搏](https://huggingface.co/spaces/tbdavid2019/store-pulse) 
 針對連鎖店 多店鋪 所有 google maps 評論一次看 , 雷店避開
 
