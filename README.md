@@ -2,28 +2,6 @@
 
 > **總想做點什麼讓世界更美好 **
 
-
-
----
-
-## 🚀 Engineering Philosophy (技術哲學)
-
-- **Scalability First**: 善用 Serverless (Cloudflare Workers, GCP) 架構，確保系統能隨時應對高併發需求。
-- **AI-Driven Innovation**: 深度整合 LLM (OpenAI, Gemini) 與 RAG 技術，賦予應用程式「理解」與「推論」的能力。
-- **User-Centric Design**: 從 UI/UX 到 API 設計，堅持以使用者體驗為核心，解決真實痛點。
-
----
-
-## 🛠 Core Competencies (技術雷達)
-
-| Domain                 | Technologies                                                                 |
-| :--------------------- | :--------------------------------------------------------------------------- |
-| **🤖 Generative AI**    | OpenAI API, Gemini, LangChain, RAG Pipelines, Multi-Agent Systems, TTS/ASR   |
-| **☁️ Cloud & Infra**    | **Cloudflare Workers (Serverless)**, GCP, Docker, CI/CD, k8s knowledge       |
-| **🕸 Full-Stack**       | **Vue.js / React**, TypeScript, Python (FastAPI/Flask), Node.js, TailwindCSS |
-| **📱 Bot & Messaging**  | LINE Messaging API, Telegram Bot API, Discord Bots                           |
-| **📊 Data & Analytics** | Financial Data Crawling, Vector Databases (ChromaDB), Data Visualization     |
-
 ---
 
 ## 🏛 Strategic Domains & Featured Projects
