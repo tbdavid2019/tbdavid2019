@@ -6,15 +6,6 @@
 
 ## 🏛 Strategic Domains & Featured Projects
 
-### 🧠 Enterprise AI & Intelligent Agents
-*打造具備上下文理解能力的智慧助理與決策系統。*
-
-- **[rag-chat-2025](https://github.com/tbdavid2019/rag-chat-2025)** ([Repo](https://github.com/tbdavid2019/rag-chat-2025))  
-  *Next-Gen RAG Architecture*: 實作基於 2025 技術標準的檢索增強生成系統，整合混合檢索 (Hybrid Search) 與重排序 (Rerank) 機制，大幅提升知識庫問答精準度。
-- **[ai-hedge-fund-API](https://github.com/tbdavid2019/ai-hedge-fund-API)** ([Repo](https://github.com/tbdavid2019/ai-hedge-fund-API))  
-  *FinTech AI*: 模擬對沖基金運作的多 Agent 系統。整合多位「AI 分析師」針對個股進行財報分析、情緒分析與技術面判讀，輸出綜合投資建議。
-- **[line-bot-gpt](https://github.com/tbdavid2019/line-bot-gpt)** ([Repo](https://github.com/tbdavid2019/line-bot-gpt))  
-  *Conversational AI*: 高度整合 OpenAI GPT 的 LINE 機器人，支援上下文記憶、角色扮演與圖像生成，是個人與社群的強大助手。
 
 ### ⚡️ High-Performance Serverless Architecture
 *利用邊緣運算與無伺服器架構，實現低延遲、高可用的後端服務。*
@@ -86,6 +77,15 @@
 - **[fonts-TW-777](https://github.com/tbdavid2019/fonts-TW-777)**: 777 字型系列，簡轉繁實驗字型。
 - **[music-lofi](https://github.com/tbdavid2019/music-lofi)**: 專注使用的 Lofi 音樂播放器前端展示。
 
+### 🧠 Enterprise AI & Intelligent Agents
+*打造具備上下文理解能力的智慧助理與決策系統。*
+
+- **[rag-chat-2025](https://github.com/tbdavid2019/rag-chat-2025)** ([Repo](https://github.com/tbdavid2019/rag-chat-2025))  
+  *Next-Gen RAG Architecture*: 實作基於 2025 技術標準的檢索增強生成系統，整合混合檢索 (Hybrid Search) 與重排序 (Rerank) 機制，大幅提升知識庫問答精準度。
+- **[ai-hedge-fund-API](https://github.com/tbdavid2019/ai-hedge-fund-API)** ([Repo](https://github.com/tbdavid2019/ai-hedge-fund-API))  
+  *FinTech AI*: 模擬對沖基金運作的多 Agent 系統。整合多位「AI 分析師」針對個股進行財報分析、情緒分析與技術面判讀，輸出綜合投資建議。
+- **[line-bot-gpt](https://github.com/tbdavid2019/line-bot-gpt)** ([Repo](https://github.com/tbdavid2019/line-bot-gpt))  
+  *Conversational AI*: 高度整合 OpenAI GPT 的 LINE 機器人，支援上下文記憶、角色扮演與圖像生成，是個人與社群的強大助手。
 ---
 
 ## 📈 GitHub Stats
