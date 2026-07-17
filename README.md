@@ -4,7 +4,23 @@
 
 **AI Solutions Architect · Agent Systems · Automation · Cloud-native Apps**
 
-我專注把 AI、資料與雲端服務組合成真正能被使用的產品：從 Agent / RAG、內容自動化，到 Cloudflare Workers、LINE / Telegram Bot 與在地生活服務。
+## 📊 GitHub Activity
+
+統計卡片由我自己的 [github-status](https://github.com/tbdavid2019/github-status) 專案每日更新。
+
+<p align="center">
+  <a href="https://github.com/tbdavid2019/github-status">
+    <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/status.gif" alt="tbdavid2019 GitHub status" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/languages.svg" alt="tbdavid2019 top languages" width="720" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/top-repos.svg" alt="tbdavid2019 top repositories" width="720" />
+</p>
 
 ## 🚀 Current Focus
 
@@ -37,23 +53,7 @@
 
 更多專案請參考我的 [GitHub repositories](https://github.com/tbdavid2019?tab=repositories)。
 
-## 📊 GitHub Activity
 
-統計卡片由我自己的 [github-status](https://github.com/tbdavid2019/github-status) 專案每日更新。
-
-<p align="center">
-  <a href="https://github.com/tbdavid2019/github-status">
-    <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/status.gif" alt="tbdavid2019 GitHub status" width="720" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/languages.svg" alt="tbdavid2019 top languages" width="720" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/top-repos.svg" alt="tbdavid2019 top repositories" width="720" />
-</p>
 
 ## 🧰 Toolbox
 
