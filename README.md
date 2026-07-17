@@ -4,8 +4,6 @@
 
 **AI Solutions Architect · Agent Systems · Automation · Cloud-native Apps**
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
-
 ## 📊 GitHub Activity
 
 統計卡片由我自己的 [github-status](https://github.com/tbdavid2019/github-status) 專案每日更新。
@@ -60,10 +58,6 @@
 ## 🧰 Toolbox
 
 `Python` · `JavaScript` · `TypeScript` · `Vue` · `Svelte` · `Cloudflare Workers` · `GCP` · `AWS` · `OpenAI API` · `RAG` · `MCP`
-
-## 📄 License
-
-本 repository 採用 [GNU Affero General Public License v3.0](./LICENSE) 授權。
 
 ## 📬 Connect
 
