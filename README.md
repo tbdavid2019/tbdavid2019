@@ -48,10 +48,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/stats.svg" alt="tbdavid2019 GitHub statistics" width="720" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/tbdavid2019/github-status/main/generated/languages.svg" alt="tbdavid2019 top languages" width="720" />
 </p>
 
