@@ -38,6 +38,8 @@
 
 ### 🛠️ 實用工具與服務 (Tools & Productivity)
 
+- 🔐 **[888 2FA](https://github.com/tbdavid2019/8882fa)** ([Live](https://2fa.david888.com/)) — 基於 Cloudflare Workers 的極速 2FA 金鑰管理系統。純 Web Crypto API 實作 Passkey / WebAuthn 免密生物辨識登入，支援 PWA 離線 TOTP 與多端備份。
+- 🛒 **[afterBUY 補貨日記](https://github.com/tbdavid2019/afterBUY)** ([Live](https://tbdavid2019.github.io/afterBUY)) — 手機優先 PWA 耗材更換週期追蹤、開封保存期（PAO）、保固倒數與常備庫存管理，支援 Passkey 免密秒登與 WebCal 日曆無殘留同步。
 - ⚡ **[888-url2md](https://create360.ai)** — 將任意網頁、搜尋結果或多網頁批次轉換為 LLM 友善的乾淨 Markdown。
 - 📦 **[888box 檔案中心](https://box.david888.com/)** — 開源雲端檔案與資產管理系統，提供代理 Agent 管理與 Skill 排程介面。
 - 📚 **[David888 Wiki 團隊知識庫](https://wiki.david888.com/)** — 團隊內部 SOP、專案筆記、研究紀錄與可重用 know-how 知識庫。
@@ -50,8 +52,11 @@
 - 🔤 **[TabVoice 隨機單字複習器](https://chromewebstore.google.com/detail/random-gre-word-%E9%9A%A8%E6%A9%9F%E5%96%AE%E5%AD%97%E8%A4%87%E7%BF%92%E5%99%A8/mpbkdjjihhjjhmlnchkbpgfclhhdblap)** — 利用新分頁碎片時間背單字、字庫發音與例句複習工具。
 - 🎨 **[Font Changer 改字體](https://chromewebstore.google.com/detail/%E6%94%B9%E5%AD%97%E9%AB%94-font-changer/ilmdkfomedcdolkiiagifgmgohahlmoi)** — 自訂網頁字體、減輕視覺疲勞與改善排版閱讀的擴充功能。
 
-### 🤖 AI 應用與研究 (AI Apps & Research)
+### 🤖 AI 應用、情報與量化研究 (AI Apps & Intelligence)
 
+- 📰 **[888news](https://github.com/tbdavid2019/888news)** ([Live](https://news2.david888.com/)) — 全球科技與 AI 情報雷達 · 每日精選 · 自動追蹤頂尖科技信源，AI 即時摘要與多語系熱點聚合。
+- 📑 **[學術論文追蹤器 (paper-daily)](https://github.com/tbdavid2019/paper-daily)** ([Live](https://tbdavid2019.github.io/paper-daily/)) — 每日追蹤 arXiv、HuggingFace、Semantic Scholar 具身智能與前沿論文，LLM 自動繁中研報。
+- 🤖 **[888 StockBot 2.0](https://github.com/tbdavid2019/stockbot)** ([Live](https://bot.david888.com/)) — 機構級金融智能體，純 TypeScript 原生量化引擎、三大法人籌碼情報與 TradingView 互動走勢圖。
 - 🕸️ **[台灣公司關係網路可視化](https://taiwan-company-network.david888.com/)** — 台灣企業與法人投資關係的互動式動態網路地圖。
 - 📈 **[888 人生 K 線 | 八字命理可視化](https://bazi.david888.com)** — 獨創八字命理 K 線化工具，將生辰八字轉為能量波動圖與 AI 運勢解析。
 - 🏦 **[AI Hedge Fund](https://huggingface.co/spaces/tbdavid2019/ai-hedge-fund)** — 多 AI 分析師協作的模擬頂尖投資機構決策平台。
